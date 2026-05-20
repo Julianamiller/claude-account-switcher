@@ -79,3 +79,7 @@ Feito com carinho por [Juliana Miller](https://github.com/Julianamiller).
 ## Licença
 
 MIT — use, modifique e distribua à vontade, mantendo o crédito.
+
+---
+
+Se esse projeto te ajudou, deixa uma ⭐ — faz diferença!
